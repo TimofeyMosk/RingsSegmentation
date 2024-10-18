@@ -1,0 +1,9 @@
+train: /datasets645/train/images
+val: /datasets645/val/images
+
+
+names:
+  0: redOring
+  1: YellowOring
+  2: GreyOring
+
